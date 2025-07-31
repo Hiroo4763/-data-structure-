@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uC774\uB3D9\uC6B1\\Desktop\\data_structure_week7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D49F7AA0-0011-4A1E-9225-23F0AA02A1E0}|data_structure_week7.vcxproj|C:\\Users\\\uC774\uB3D9\uC6B1\\Desktop\\data_structure_week7\\buffer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D49F7AA0-0011-4A1E-9225-23F0AA02A1E0}|data_structure_week7.vcxproj|solutionrelative:buffer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49F7AA0-0011-4A1E-9225-23F0AA02A1E0}|data_structure_week7.vcxproj|C:\\Users\\\uC774\uB3D9\uC6B1\\Desktop\\data_structure_week7\\linear.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D49F7AA0-0011-4A1E-9225-23F0AA02A1E0}|data_structure_week7.vcxproj|solutionrelative:linear.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49F7AA0-0011-4A1E-9225-23F0AA02A1E0}|data_structure_week7.vcxproj|C:\\Users\\\uC774\uB3D9\uC6B1\\Desktop\\data_structure_week7\\circle queue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D49F7AA0-0011-4A1E-9225-23F0AA02A1E0}|data_structure_week7.vcxproj|solutionrelative:circle queue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "linear.c",
+              "DocumentMoniker": "C:\\Users\\\uC774\uB3D9\uC6B1\\Desktop\\data_structure_week7\\linear.c",
+              "RelativeDocumentMoniker": "linear.c",
+              "ToolTip": "C:\\Users\\\uC774\uB3D9\uC6B1\\Desktop\\data_structure_week7\\linear.c",
+              "RelativeToolTip": "linear.c",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-28T07:32:07.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "buffer.c",
+              "DocumentMoniker": "C:\\Users\\\uC774\uB3D9\uC6B1\\Desktop\\data_structure_week7\\buffer.c",
+              "RelativeDocumentMoniker": "buffer.c",
+              "ToolTip": "C:\\Users\\\uC774\uB3D9\uC6B1\\Desktop\\data_structure_week7\\buffer.c",
+              "RelativeToolTip": "buffer.c",
+              "ViewState": "AgIAADMAAAAAAAAAAAAiwEcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-28T07:30:24.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "circle queue.c",
+              "DocumentMoniker": "C:\\Users\\\uC774\uB3D9\uC6B1\\Desktop\\data_structure_week7\\circle queue.c",
+              "RelativeDocumentMoniker": "circle queue.c",
+              "ToolTip": "C:\\Users\\\uC774\uB3D9\uC6B1\\Desktop\\data_structure_week7\\circle queue.c",
+              "RelativeToolTip": "circle queue.c",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-28T07:23:42.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
